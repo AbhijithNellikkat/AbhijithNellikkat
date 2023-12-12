@@ -13,7 +13,6 @@
 
 - 📫 How to reach me *abhijithnellikkat@gmail.com*
 
-- ⚡ Fun fact *I think I am the Funny Man*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +20,6 @@
 <a href="https://www.linkedin.com/in/abhijith-nellikkat-4339ba243/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png" alt="abhi" height="30" width="40" /></a>
 <!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19319910" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aneesh bin azeez" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/nelli__kadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nelli__kadan" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/704/270/png-clipart-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta.png" alt="abhi" height="30" width="40" /></a>
 <!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aneesh172.ant" height="30" width="40" /></a> -->
 </p>
